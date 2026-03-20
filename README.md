@@ -63,3 +63,18 @@ in the code past your OPENAI_API_KEY
 streamlit run Rag.py
 
 
+# How to use RAG App
+step 1 when you open the app you will se below screen 
+<img width="956" height="473" alt="1" src="https://github.com/user-attachments/assets/185cd5aa-2956-49f1-bba1-c167d1c3c30a" />
+
+step 2 we need to provide a Youtube video ID form the URL 
+for example
+https://www.youtube.com/watch?v=FQdaUv95mR8&t=75s
+in this url Video id is FQdaUv95mR8 So copy and past this id into the box and click genrate now option 
+<img width="956" height="440" alt="2" src="https://github.com/user-attachments/assets/92bc8e93-8042-46f6-83a7-ba4f8fddcc97" />
+
+
+Step 3 we after you can ask the question regading this video and LLM provide answer form this video
+<img width="959" height="440" alt="3" src="https://github.com/user-attachments/assets/e2039d75-4c93-4329-b653-791ea3ab969d" />
+
+
